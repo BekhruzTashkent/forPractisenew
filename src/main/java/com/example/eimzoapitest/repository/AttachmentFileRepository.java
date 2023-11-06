@@ -1,6 +1,7 @@
-package com.example.eimzointegration.repository;
+package com.example.eimzoapitest.repository;
 
-import com.example.eimzointegration.entity.AttachmentFile;
+
+import com.example.eimzoapitest.entity.AttachmentFile;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface AttachmentFileRepository extends JpaRepository<AttachmentFile, Integer> {

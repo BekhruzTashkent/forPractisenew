@@ -41,6 +41,22 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.json/json -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20230227</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.dmfs/httpurlconnection-executor -->
+        <dependency>
+            <groupId>org.dmfs</groupId>
+            <artifactId>httpurlconnection-executor</artifactId>
+            <version>0.8</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>

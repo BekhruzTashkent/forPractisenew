@@ -1,4 +1,4 @@
-package com.example.eimzointegration.controller;
+package com.example.eimzoapitest.controller;
 
 public class AttachmentFileController {
 }

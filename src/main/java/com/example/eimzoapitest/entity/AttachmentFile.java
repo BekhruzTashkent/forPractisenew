@@ -1,4 +1,4 @@
-package com.example.eimzointegration.entity;
+package com.example.eimzoapitest.entity;
 
 
 import jakarta.persistence.Entity;
